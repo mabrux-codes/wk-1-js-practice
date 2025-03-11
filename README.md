@@ -62,6 +62,8 @@ PAYE Tax
 NHIF Deduction
 NSSF Deduction
 Net Salary (Gross Salary - Total Deductions)
+
+
 Author
 👤 Abel Lukwaro
 📧 Contact: business.mabrux@gmail.com
